@@ -1,0 +1,17 @@
+{
+  "name": "array-range",
+  "version": "1.0.0",
+  "description": "array range function",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "array-range"
+  ],
+  "author": "Jy",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.8.0"
+  }
+}
